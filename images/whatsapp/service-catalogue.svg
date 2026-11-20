@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" font-family="Inter,Arial,sans-serif" role="img" aria-label="Smartphone showing a WhatsApp product catalogue"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#201B17"/><stop offset="1" stop-color="#151210"/></linearGradient>
+<radialGradient id="gl" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#25D366" stop-opacity=".35"/><stop offset="1" stop-color="#25D366" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="800" fill="url(#bg)"/><circle cx="660.0" cy="400.0" r="440.00000000000006" fill="url(#gl)"/><g transform="translate(420 50) rotate(-2 190 400) scale(0.9)">
+<rect x="-10" y="-10" width="400" height="780" rx="56" fill="#0b0f0e" stroke="#2c3a36" stroke-width="3"/>
+<clipPath id="c6690"><rect x="6" y="6" width="368" height="748" rx="44"/></clipPath>
+<g clip-path="url(#c6690)">
+<rect x="6" y="6" width="368" height="748" fill="#EFE7DD"/>
+<rect x="6" y="6" width="368" height="86" fill="#075E54"/>
+<circle cx="52" cy="58" r="22" fill="#25D366"/><text x="42" y="66" font-size="22" font-weight="700" fill="#fff">IM</text>
+<text x="86" y="54" font-size="21" font-weight="700" fill="#fff">Catalogue</text>
+<text x="86" y="77" font-size="14" fill="#BFEFD9">Business account</text>
+<g transform="translate(20 0)"><rect x="14" y="100" width="250" height="104" rx="14" fill="#FFFFFF"/><text x="28" y="130" font-size="19" fill="#111B21">🛍️ Product name</text><text x="28" y="156" font-size="19" fill="#111B21">Short description</text><text x="28" y="182" font-size="19" fill="#111B21">₹ Price</text><rect x="14" y="218" width="250" height="104" rx="14" fill="#FFFFFF"/><text x="28" y="248" font-size="19" fill="#111B21">🛍️ Product name</text><text x="28" y="274" font-size="19" fill="#111B21">Short description</text><text x="28" y="300" font-size="19" fill="#111B21">₹ Price</text></g>
+<rect x="6" y="690" width="368" height="64" fill="#F0F2F5"/><rect x="24" y="704" width="264" height="38" rx="19" fill="#fff"/>
+<text x="44" y="729" font-size="16" fill="#8696A0">Message</text><circle cx="328" cy="723" r="22" fill="#25D366"/>
+</g><rect x="140" y="4" width="100" height="22" rx="11" fill="#0b0f0e"/></g><g><rect x="110" y="200" width="183" height="46" rx="23" fill="#fff" opacity=".96"/><text x="130" y="230" font-size="20" font-weight="600" fill="#111B21">Opt-in only ✓</text></g><g><rect x="120" y="520" width="172" height="46" rx="23" fill="#D9FDD3" opacity=".96"/><text x="140" y="550" font-size="20" font-weight="600" fill="#111B21">Delivered ✓✓</text></g></svg>
